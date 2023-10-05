@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KenJorren Culata's Portfollio"
+title                    : "KenJorren Culata's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Portfollio"
+name                     : "Portfolio"
 description              : "Attending Cal Poly Pomona, /n Business Administration /n Computer Information Systems /n Business Intelligance."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
